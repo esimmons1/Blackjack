@@ -1,7 +1,7 @@
 Blackjack Game
 ==============
 
-Made by: Ellis Simmons, Fall 2024
+Made by: Ellis Simmons, Fall 2024    
 Language: Python  
 
 ---
