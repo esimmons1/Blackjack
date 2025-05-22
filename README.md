@@ -57,4 +57,4 @@ Just run it in a Python interpreter:
 ```bash
 python blackjack.py
 ```
-As per usual, if you're going to steal or use it at least credit me please.
+As per usual, if you're going to steal or use it at least credit me please. Thank you for reading and have a nice day.
