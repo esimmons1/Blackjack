@@ -1,4 +1,4 @@
-# Blackjack 🂡🂱
+# Blackjack Game
 
 A command-line version of the classic casino game **Blackjack**, built in Python. Play against the dealer, draw cards, and try to get as close to 21 as possible without going over.
 
@@ -56,3 +56,5 @@ Just run it in a Python interpreter:
 
 ```bash
 python blackjack.py
+```
+As per usual, if you're going to steal or use it at least credit me please.
